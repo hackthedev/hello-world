@@ -1,2 +1,6 @@
 # hello-world
-github-tutorial
+
+Hellow ^^
+
+This is my first "ting" on github ;D.
+Dont mind it
